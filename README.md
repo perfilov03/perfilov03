@@ -24,7 +24,7 @@
 ## Education
 
   - Moscow Polytechnic University, Moscow _(2021 — 2025)_
-  - Faculty of Information Technology, **Web Technologies**
+  - Faculty of Information Technology, [**Web Technologies**](https://mospolytech.ru/postupayushchim/programmy-obucheniya/veb-tekhnologii/)
 
 ## Work experience
 
